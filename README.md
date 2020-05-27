@@ -6,7 +6,8 @@ Purpose of this script is to report on  particular performance monitor counters 
 
  
 
-For more details please also see this post https://blog.rmilne.ca/2014/12/17/powershell-script-to-get-active-cas-connections
+For more details please also see this post:
+https://blog.rmilne.ca/2014/12/17/powershell-script-to-get-exchange-2010-active-cas-connections/
 
  
 
